@@ -2,14 +2,18 @@
 THANKS FOR REACHING OUT TO ME
 #
 I am a blockchain full stack developer and have experience of over 6 years.
+
 I'm confident in these fields below:
+
 ✓ Smart Contract, DeFi, in Ethereum, Solana, Avax, Wax, Algorand, Polygon,BSC, Polkadot
 ✓ DApps development ; Solidity/Rust + web3.js/ethers.js
 ✓ Solidity, Rust, Golang, C++, Java, Python
 ✓ Integration with crypto wallets such as Metamask.
 ✓ SQL and NoSQL (MySQL, MSSQL, PostgreSQL, InfluxDB, MongoDB), Redis
 ✓ Sytems Administration (DevOps, Docker, Apache, Nginx, Heroku)
+
 What I can do for you:
+
 ✓ Creating an exchange Trading platforms with 3rd part liquidity API, Margin trading etc. like binance.com, bybit.com, or Bitmex.com
 ✓ NFT marketplace, Defi/Dapp Development, DeFi Consulting (swaps, liquidity pools, borrowing and lending, yield farming, impermanent loss, governance tokens)
 ✓ NFTs (ERC-721, ERC-1155, Flow, BSC, Polygon, Rarible, Opensea, Nifty, etc)

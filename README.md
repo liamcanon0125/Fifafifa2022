@@ -1,7 +1,7 @@
 
 THANKS FOR REACHING OUT TO ME
 #
-I am a blockchain full stack developer and have experience of over 6 years.
+I am a blockchain full stack developer and have experience of over 4 years.
 
 I'm confident in these fields below:
 
